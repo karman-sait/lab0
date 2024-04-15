@@ -1,0 +1,14 @@
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\bin\Debug\net8.0\Lab0.exe
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\bin\Debug\net8.0\Lab0.deps.json
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\bin\Debug\net8.0\Lab0.runtimeconfig.json
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\bin\Debug\net8.0\Lab0.dll
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\bin\Debug\net8.0\Lab0.pdb
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\obj\Debug\net8.0\Lab0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\obj\Debug\net8.0\Lab0.AssemblyInfoInputs.cache
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\obj\Debug\net8.0\Lab0.AssemblyInfo.cs
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\obj\Debug\net8.0\Lab0.csproj.CoreCompileInputs.cache
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\obj\Debug\net8.0\Lab0.dll
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\obj\Debug\net8.0\refint\Lab0.dll
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\obj\Debug\net8.0\Lab0.pdb
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\obj\Debug\net8.0\Lab0.genruntimeconfig.cache
+D:\Study\Sem 2\CPRG-211\Lab0\Lab0\obj\Debug\net8.0\ref\Lab0.dll
